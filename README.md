@@ -1,5 +1,5 @@
 # WPF webcam - camera app
-- Feature:
+### Feature
 - Take picture
 - Save, rename, update picture
 - upload to clould (in dev)
